@@ -1,0 +1,25 @@
+{
+    "aplication":"asdfasdf",
+    "rutas":[
+        {
+            "ruta":"/",
+            "icon":"add_alert",
+            "text":"Inicio"
+        },
+        {
+            "ruta":"historial",
+            "icon":"add_alert",
+            "text":"Historial"
+        },
+        {
+            "ruta":"transaccion",
+            "icon":"add_alert",
+            "text":"Nueva transaccion"
+        },
+        {
+            "ruta":"filtros",
+            "icon":"add_alert",
+            "text":"Filtros"
+        }
+    ]
+}
